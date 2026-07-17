@@ -2,7 +2,7 @@
 
 A Next.js web app that turns your notes or any topic into flashcards and multiple-choice quiz questions using an LLM. Paste in your study material, hit Generate, then flip through cards or take a quiz — with the option to re-test only the hard or wrong items.
 
-   Open [http://localhost:3000](http://localhost:3000) in your browser.
+   Open https://study-assistant-dun.vercel.app/ in your browser.
 
 ## How to Use
 
